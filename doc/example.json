@@ -1,0 +1,28 @@
+{
+  "isFull": false,
+  "list": [
+    {
+      "title": "基本示例",
+      "description": "灰色区域为组件内部，在两个输入框输入完成后点击灰色区域外面触发失去焦点事件",
+      "code": "./base.js",
+      "scope": [
+        {
+          "name": "_useSimulationBlur",
+          "packageName": "@kne/use-simulation-blur"
+        },
+        {
+          "name": "input",
+          "packageName": "antd/lib/input"
+        },
+        {
+          "name": "space",
+          "packageName": "antd/lib/space"
+        },
+        {
+          "name": "_message",
+          "packageName": "antd/lib/message"
+        }
+      ]
+    }
+  ]
+}

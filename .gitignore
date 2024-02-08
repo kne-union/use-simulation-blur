@@ -27,3 +27,4 @@ yarn-error.log*
 /index.js.map
 /index.modern.js.map
 package-lock.json
+example
